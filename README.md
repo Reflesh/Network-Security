@@ -23,6 +23,7 @@ tcpdump(tun_server) 결과 : 프로그램 실행 및 환경설정 후
 <img width="1410" height="499" alt="image" src="https://github.com/user-attachments/assets/951712c3-01a7-4450-a6ac-74b74c78a269" />
 tcpdump(enp0s3) 결과 : 프로그램 실행 및 환경설정 후
 <img width="512" height="187" alt="image" src="https://github.com/user-attachments/assets/e14fb55f-2754-4c91-add3-f37886eb5f67" />
+
 traceroute 결과 : 프로그램 실행 및 환경설정 후
 
 <참고자료>
